@@ -7357,9 +7357,9 @@
       "dev": true
     },
     "etcher-sdk": {
-      "version": "5.1.5",
-      "resolved": "https://registry.npmjs.org/etcher-sdk/-/etcher-sdk-5.1.5.tgz",
-      "integrity": "sha512-TXyfxbfJ7Zkw3EWavA3nc7F13EAs8n0BogdZqh0bHhdbQ+vNl1h2+O1F6rrFYqwS01UsXw6YZMXXCOjwYOs04A==",
+      "version": "5.1.6",
+      "resolved": "https://registry.npmjs.org/etcher-sdk/-/etcher-sdk-5.1.6.tgz",
+      "integrity": "sha512-a3OaRywGHKjbRvbAjdrQ64V+6Kvn2pjZzOqw0yud1oFDj9/Ned0cBV5qkHMA759glcS198tdMiVuym4lQme/LQ==",
       "dev": true,
       "requires": {
         "@balena/udif": "^1.1.0",
@@ -14950,8 +14950,8 @@
       }
     },
     "sudo-prompt": {
-      "version": "github:zvin/sudo-prompt#81cab70c1f3f816b71539c4c5d7ecf1309094f8c",
-      "from": "github:zvin/sudo-prompt#workaround-windows-amperstand-in-username",
+      "version": "github:zvin/sudo-prompt#7cdede2f0da28fbcc2db48402d7d935f3a825c91",
+      "from": "github:zvin/sudo-prompt#7cdede2f0da28fbcc2db48402d7d935f3a825c91",
       "dev": true
     },
     "sumchecker": {
